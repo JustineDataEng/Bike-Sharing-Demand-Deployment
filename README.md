@@ -4,6 +4,11 @@ This repository contains my solution notebook for the Kaggle **Bike Sharing Dema
 
 The objective of the competition is to predict the hourly demand for bike rentals based on historical usage patterns and weather-related features.
 
+## 🚴 Live Demo
+
+Experience the deployed app here:  
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bike-sharing-demand-deployment-dlwkj5lg7yhs5grgkhwyit.streamlit.app/)
+
 ---
 
 ## Project Overview
